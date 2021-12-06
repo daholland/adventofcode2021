@@ -5,9 +5,13 @@ namespace adventofcode
     {
         static void Main(string[] args)
         {
-            var ans = DayTwo.PartOne();
+            // var ans = DayTwo.PartOne();
+            // Console.WriteLine($"day2 Ans: {ans}");
+            // var ans2 = DayTwo.PartTwo();
+            // Console.WriteLine($"day2 Ans: {ans2}");
+            var ans = DayFive.PartOne();
             Console.WriteLine($"day2 Ans: {ans}");
-            var ans2 = DayTwo.PartTwo();
+            var ans2 = DayFive.PartTwo();
             Console.WriteLine($"day2 Ans: {ans2}");
         }
         
