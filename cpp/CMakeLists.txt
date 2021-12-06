@@ -3,4 +3,4 @@ project(cpp)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(cpp main.cpp day3.cpp day3.h)
+add_executable(cpp main.cpp day3.cpp day3.h day6.cpp day6.h)
